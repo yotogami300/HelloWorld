@@ -50,6 +50,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Tushar Agarwal](https://github.com/niftytushar)
 <br/>
+[Nick McKinnon](https://github.com/nickinnon)
+<br/>
 [Govind Dixit](https://github.com/GOVINDDIXIT)
 <br/>
 [Wang Pan](https://github.com/giantpanpan)
