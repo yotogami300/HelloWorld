@@ -7,7 +7,6 @@ Just fork it and add a hello world to contribute for hacktober fest and send a P
 ### Get yourself free goodies by just writing a hello world!
 Say hi to the world in any language of your choice!
 
-
 # Contributor's List
 [Piyush Mehta](https://github.com/piyush97)
 <br/>
@@ -16,6 +15,8 @@ Say hi to the world in any language of your choice!
 [João Fukuda](https://github.com/JoaoFukuda)
 <br/>
 [Tushar Agarwal](https://github.com/niftytushar)
+<br/>
+[Paul Jankowski](https://github.com/8bittitan)
 <br/>
 
 -----
