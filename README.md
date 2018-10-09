@@ -1,4 +1,6 @@
 # HelloWorld
+Status: [![Build Status](https://travis-ci.com/piyush97/HelloWorld.svg?branch=master)](https://travis-ci.com/piyush97/HelloWorld)
+<br/>
 HacktoberFest Hello World in every language ever.
 Just fork it and add a hello world to contribute for hacktober fest and send a Pull Request!
 
