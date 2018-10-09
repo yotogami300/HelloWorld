@@ -18,7 +18,7 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 ### 2. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Hello-world](https://github.com/piyush97/HelloWorld) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/piyush907/HelloWorld/).
+You can get your own fork/copy of [Hello-world](https://github.com/piyush97/HelloWorld) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/piyush97/HelloWorld/).
 
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/piyush97/HelloWorld)
 
