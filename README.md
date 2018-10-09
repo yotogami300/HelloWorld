@@ -7,3 +7,4 @@ Say hi to the world in any language of your choice!
 
 # Contributor's List
 [Piyush Mehta](https://github.com/piyush97)
+[Miguel Santos](https://github.com/Cotemero)
