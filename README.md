@@ -52,7 +52,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Govind Dixit](https://github.com/GOVINDDIXIT)
 <br/>
-
+[Wang Pan](https://github.com/giantpanpan)
+<br/>
 -----
 # Don't forget to add yourself to Contributor's list
 -----
