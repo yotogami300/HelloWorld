@@ -13,6 +13,8 @@ Say hi to the world in any language of your choice!
 <br/>
 [João Fukuda](https://github.com/JoaoFukuda)
 <br/>
+[Tushar Agarwal](https://github.com/niftytushar)
+<br/>
 
 -----
 # Don't forget to add yourself to Contributor's list
