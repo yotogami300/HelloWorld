@@ -4,3 +4,4 @@ Just fork it and add a hello world to contribute for hacktober fest and send a P
 
 # Contributor's List
 [Piyush Mehta](https://github.com/piyush97)
+[Miguel Santos](https://github.com/Cotemero)
