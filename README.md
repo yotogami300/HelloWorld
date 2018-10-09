@@ -58,6 +58,7 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Andrew Harris](https://github.com/didrio)
 <br/>
+[Arfat Salman](https://github.com/arfatsalman)
 -----
 # Don't forget to add yourself to Contributor's list
 -----
