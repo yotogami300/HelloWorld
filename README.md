@@ -11,6 +11,8 @@ Say hi to the world in any language of your choice!
 <br/>
 [Miguel Santos](https://github.com/Cotemero)
 <br/>
+[João Fukuda](https://github.com/JoaoFukuda)
+<br/>
 [Tushar Agarwal](https://github.com/niftytushar)
 <br/>
 
