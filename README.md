@@ -62,6 +62,10 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Soul Spark](https://github.com/soulspark666)
 <br/>
+[Marcin Badurowicz](https://github.com/ktos)
+<br/>
+[Brayden Girard](https://github.com/braydengirard)
+<br/>
 -----
 # Don't forget to add yourself to Contributor's list
 -----
