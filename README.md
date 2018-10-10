@@ -62,6 +62,7 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Brayden Girard](https://github.com/braydengirard)
 <br/>
+[Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
 -----
 # Don't forget to add yourself to Contributor's list
 -----
