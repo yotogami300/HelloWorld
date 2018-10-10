@@ -62,6 +62,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Brayden Girard](https://github.com/braydengirard)
 <br/>
+[Chathura Karunasekara](https://github.com/Kcatnapper)
+<br/>
 -----
 # Don't forget to add yourself to Contributor's list
 -----
