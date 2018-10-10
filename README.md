@@ -64,9 +64,12 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Marcin Badurowicz](https://github.com/ktos)
 <br/>
+[UlVc](https://github.com/UlVc)
+<br/>
 [Brayden Girard](https://github.com/braydengirard)
 <br/>
 [Egor Dorichev](https://github.com/egordorichev)
+<br/>
 [Chathura Karunasekara](https://github.com/Kcatnapper)
 <br/>
 [Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
