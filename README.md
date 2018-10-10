@@ -58,6 +58,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Andrew Harris](https://github.com/didrio)
 <br/>
+[Gustavo Araujo](https://github.com/gwgga)
+<br/>
 [Rishabh Rajput](https://github.com/rrishabh145)
 <br/>
 [Soul Spark](https://github.com/soulspark666)
@@ -77,8 +79,8 @@ as you can and star this project to help as many people in opensource as you can
 [Chathura Karunasekara](https://github.com/Kcatnapper)
 <br/>
 [Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
-
 <br/>
+
 -----
 # Don't forget to add yourself to Contributor's list
 -----
