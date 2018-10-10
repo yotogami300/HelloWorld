@@ -84,9 +84,10 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Paul Arutyunov](https://github.com/paul-arutyunov)
 <br/>
-[Fernando Gonzales])https://github.com/Fernando0107)
+[Fernando Gonzales](https://github.com/Fernando0107)
 <br/>
-
+[Keith Lewis](https://github.com/Jacrys)
+<br/>
 -----
 # Don't forget to add yourself to Contributor's list
 -----
