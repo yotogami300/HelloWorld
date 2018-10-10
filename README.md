@@ -58,11 +58,17 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Andrew Harris](https://github.com/didrio)
 <br/>
+[Rishabh Rajput](https://github.com/rrishabh145)
+<br/>
+[Soul Spark](https://github.com/soulspark666)
+<br/>
 [Marcin Badurowicz](https://github.com/ktos)
 <br/>
 [Brayden Girard](https://github.com/braydengirard)
 <br/>
 [Chathura Karunasekara](https://github.com/Kcatnapper)
+<br/>
+[Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
 <br/>
 -----
 # Don't forget to add yourself to Contributor's list
