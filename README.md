@@ -82,7 +82,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
 <br/>
-
+[Yash Yadav](https://github.com/yash-yadav)
+<br/>
 -----
 # Don't forget to add yourself to Contributor's list
 -----
