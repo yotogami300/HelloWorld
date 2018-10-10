@@ -82,7 +82,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
 <br/>
-
+[Paul Arutyunov](https://github.com/paul-arutyunov)
+<br/>
 -----
 # Don't forget to add yourself to Contributor's list
 -----
