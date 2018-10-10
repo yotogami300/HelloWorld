@@ -64,6 +64,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Marcin Badurowicz](https://github.com/ktos)
 <br/>
+[Hermano Leite](https://github.com/HermanoLeite)
+<br/>
 [UlVc](https://github.com/UlVc)
 <br/>
 [Brayden Girard](https://github.com/braydengirard)
@@ -73,6 +75,7 @@ as you can and star this project to help as many people in opensource as you can
 [Chathura Karunasekara](https://github.com/Kcatnapper)
 <br/>
 [Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
+
 <br/>
 -----
 # Don't forget to add yourself to Contributor's list
