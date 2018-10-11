@@ -86,6 +86,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Fernando Gonzales])https://github.com/Fernando0107)
 <br/>
+[Michael McClean](https://github.com/mdmcclean)
+<br/>
 
 -----
 # Don't forget to add yourself to Contributor's list
