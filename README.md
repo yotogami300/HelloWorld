@@ -100,6 +100,7 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Marco Schmid](https://github.com/machgo)
 <br/>
+[Sarah E](https://github.com/sapo83)
 
 -----
 # Don't forget to add yourself to Contributor's list
