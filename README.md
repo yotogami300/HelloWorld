@@ -99,7 +99,8 @@ as you can and star this project to help as many people in opensource as you can
 [Fabrizzio Rivera](https://github.com/fabrv)
 <br/>
 [Aye Mya Han](https://github.com/sontsont)
-
+<br/>
+[Sarah E](https://github.com/sapo83)
 -----
 # Don't forget to add yourself to Contributor's list
 -----
