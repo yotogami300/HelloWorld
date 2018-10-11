@@ -60,6 +60,43 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Paul Jankowski](https://github.com/8bittitan)
 <br/>
+[Prince Kelvin Onyenanu](https://github.com/madewithkode)
+<br/>
+[Gustavo Araujo](https://github.com/gwgga)
+<br/>
+[Rishabh Rajput](https://github.com/rrishabh145)
+<br/>
+[Soul Spark](https://github.com/soulspark666)
+<br/>
+[Marcin Badurowicz](https://github.com/ktos)
+<br/>
+[Andriy Yevseytsev](https://github.com/yevseytsev)
+<br/>
+[Hermano Leite](https://github.com/HermanoLeite)
+<br/>
+[UlVc](https://github.com/UlVc)
+<br/>
+[Brayden Girard](https://github.com/braydengirard)
+<br/>
+[Egor Dorichev](https://github.com/egordorichev)
+<br/>
+[Chathura Karunasekara](https://github.com/Kcatnapper)
+<br/>
+[Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
+<br/>
+[Yash Yadav](https://github.com/yash-yadav)
+<br/>
+[Paul Arutyunov](https://github.com/paul-arutyunov)
+<br/>
+[Fernando Gonzales](https://github.com/Fernando0107)
+<br/>
+[Keith Lewis](https://github.com/Jacrys)
+<br/>
+[Michael McClean](https://github.com/mdmcclean)
+<br/>
+[Fabrizzio Rivera](https://github.com/fabrv)
+<br/>
+
 -----
 # Don't forget to add yourself to Contributor's list
 -----
