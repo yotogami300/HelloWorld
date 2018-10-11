@@ -58,6 +58,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Andrew Harris](https://github.com/didrio)
 <br/>
+[Paul Jankowski](https://github.com/8bittitan)
+<br/>
 [Prince Kelvin Onyenanu](https://github.com/madewithkode)
 <br/>
 [Gustavo Araujo](https://github.com/gwgga)
@@ -92,7 +94,7 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Michael McClean](https://github.com/mdmcclean)
 <br/>
-[Fabrizzio Rivera])https://github.com/fabrv)
+[Fabrizzio Rivera](https://github.com/fabrv)
 <br/>
 
 -----
