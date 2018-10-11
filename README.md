@@ -98,6 +98,8 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Fabrizzio Rivera](https://github.com/fabrv)
 <br/>
+[Marco Schmid](https://github.com/machgo)
+<br/>
 
 -----
 # Don't forget to add yourself to Contributor's list
