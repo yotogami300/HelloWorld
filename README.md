@@ -103,6 +103,10 @@ as you can and star this project to help as many people in opensource as you can
 [Aye Mya Han](https://github.com/sontsont)
 <br/>
 [Sarah E](https://github.com/sapo83)
+<br/>
+[Hiran Hasanka Wayne](https://github.com/theSLWayne)
+<br/>
+
 
 -----
 # Don't forget to add yourself to Contributor's list
