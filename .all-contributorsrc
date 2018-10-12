@@ -1,0 +1,22 @@
+{
+  "projectName": "HelloWorld",
+  "projectOwner": "piyush97",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "piyush97",
+      "name": "Piyush Mehta",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18229627?v=4",
+      "profile": "https://inspiring-panini-0926f0.netlify.com/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 # HelloWorld
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 Status: [![Build Status](https://travis-ci.com/piyush97/HelloWorld.svg?branch=master)](https://travis-ci.com/piyush97/HelloWorld)
 <br/>
 HacktoberFest Hello World in every language ever.
@@ -112,3 +113,15 @@ as you can and star this project to help as many people in opensource as you can
 -----
 # Don't forget to add yourself to Contributor's list
 -----
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars3.githubusercontent.com/u/18229627?v=4" width="100px;"/><br /><sub><b>Piyush Mehta</b></sub>](https://inspiring-panini-0926f0.netlify.com/)<br />[💻](https://github.com/piyush97/HelloWorld/commits?author=piyush97 "Code") |
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
