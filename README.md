@@ -1,5 +1,5 @@
 # HelloWorld
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 Status: [![Build Status](https://travis-ci.com/piyush97/HelloWorld.svg?branch=master)](https://travis-ci.com/piyush97/HelloWorld)
 <br/>
 HacktoberFest Hello World in every language ever.
@@ -120,8 +120,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/18229627?v=4" width="100px;"/><br /><sub><b>Piyush Mehta</b></sub>](https://inspiring-panini-0926f0.netlify.com/)<br />[💻](https://github.com/piyush97/HelloWorld/commits?author=piyush97 "Code") | [<img src="https://avatars2.githubusercontent.com/u/7901813?v=4" width="100px;"/><br /><sub><b>Miguel Santos</b></sub>](https://miguelsantos.tech)<br />[💻](https://github.com/piyush97/HelloWorld/commits?author=Cotemero "Code") | [<img src="https://avatars1.githubusercontent.com/u/37672942?v=4" width="100px;"/><br /><sub><b>João Francisco Cocca Fukuda</b></sub>](http://fukuda.itch.io)<br />[💻](https://github.com/piyush97/HelloWorld/commits?author=JoaoFukuda "Code") |
-| :---: | :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/18229627?v=4" width="100px;"/><br /><sub><b>Piyush Mehta</b></sub>](https://inspiring-panini-0926f0.netlify.com/)<br />[💻](https://github.com/piyush97/HelloWorld/commits?author=piyush97 "Code") | [<img src="https://avatars2.githubusercontent.com/u/7901813?v=4" width="100px;"/><br /><sub><b>Miguel Santos</b></sub>](https://miguelsantos.tech)<br />[💻](https://github.com/piyush97/HelloWorld/commits?author=Cotemero "Code") | [<img src="https://avatars1.githubusercontent.com/u/37672942?v=4" width="100px;"/><br /><sub><b>João Francisco Cocca Fukuda</b></sub>](http://fukuda.itch.io)<br />[💻](https://github.com/piyush97/HelloWorld/commits?author=JoaoFukuda "Code") | [<img src="https://avatars1.githubusercontent.com/u/4762606?v=4" width="100px;"/><br /><sub><b>Tushar Agarwal</b></sub>](https://github.com/niftytushar)<br />[💻](https://github.com/piyush97/HelloWorld/commits?author=niftytushar "Code") |
+| :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
