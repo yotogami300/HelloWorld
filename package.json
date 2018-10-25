@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node HelloWorld.js",
-	"contributors:add": "all-contributors add",
+    "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate",
-	"contributors:check": "all-contributors check"
+    "contributors:check": "all-contributors check"
   },
   "repository": {
     "type": "git",
